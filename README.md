@@ -12,7 +12,7 @@ We implement this repo with the following environment:
 - Pytorch==1.12.1
 - CUDA==12.0
 
-Install the other package via:
+Install other packages via:
 
 ``` bash
 pip install -r requirements.txt
