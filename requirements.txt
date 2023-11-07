@@ -1,0 +1,8 @@
+numpy==1.22.3
+Pillow==8.0.1
+torch==1.12.1
+torchvision==0.13.1
+torchmetrics==0.9.3
+easydict==1.9
+functools
+albumentations==0.5.2
